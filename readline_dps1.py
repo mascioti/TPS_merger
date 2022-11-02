@@ -1,6 +1,6 @@
 import random
 
-#this script reads a SPS J/psi+ J/psi LHE and a SPS ccbar LHE and give in output a DPS LHEF
+#this script reads a SPS J/psi+ J/psi LHEF and a SPS ccbar LHEF and give in output a DPS LHEF
 
 file1 = open('sampleggpsi1psi1.lhe', 'r') 
 file2 = open('sampleggccbar.lhe', 'r') 
